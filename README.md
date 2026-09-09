@@ -6,7 +6,10 @@
 ## Team Details
 | Name | Roll No | Department | Section |
 |---|---|---|---|
-| _fill in_ | _fill in_ | _fill in_ | _fill in_ |
+| Aaron V Shibu | 2462002 | ADSE | 5BTCSAIML B |
+| Abhishek Paul Johnson | 2462008 | ADSE | 5BTCSAIML B |
+| Abel Francis | 2462005 | ADSE | 5BTCSAIML B |
+| Abin Joseph George | 2462011 | ADSE | 5BTCSAIML B |
 
 ## Problem Statement
 Support teams need a way to track customer issues from creation to resolution while
